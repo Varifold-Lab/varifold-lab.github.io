@@ -1,8 +1,10 @@
-# Varifold Lab website
+# Varifold community website
 
 The organization homepage at **https://varifold-lab.github.io/**.
 
-This repository contains the Lab introduction and a directory of public projects. Project documentation stays in its own repository and deploys independently:
+Varifold is an open learning community studying formal verification, interpretability, and tokenomics, with a focus on the mathematical foundations of AI safety. We develop and share notes, tools, and open-source projects to support learning and verifiable knowledge discovery.
+
+This repository contains the community introduction and a directory of public projects. Project documentation stays in its own repository and deploys independently:
 
 | Project | Documentation | Repository |
 | --- | --- | --- |
@@ -24,4 +26,4 @@ The course documentation link uses the organization-relative `/awesome-ai-safety
 
 Use the repository name `Varifold-Lab/varifold-lab.github.io`. In **Settings → Pages**, set **Source** to **GitHub Actions**. The included workflow publishes only `index.html`, `styles.css`, and `404.html` on pushes to `main`.
 
-The Lab description follows the organization's [public profile](https://github.com/Varifold-Lab). List public projects with descriptive links; keep draft and private research out of the public directory.
+The community description follows the organization's [public profile](https://github.com/Varifold-Lab). List public projects with descriptive links; keep draft and private research out of the public directory.
