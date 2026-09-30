@@ -11,6 +11,7 @@ This repository contains the community introduction and a directory of public pr
 | LeanMFG | https://varifold-lab.github.io/LeanMFG/ | [LeanMFG](https://github.com/Varifold-Lab/LeanMFG) |
 | Mathematics for AI Safety | https://varifold-lab.github.io/awesome-ai-safety/ | [awesome-ai-safety](https://github.com/Varifold-Lab/awesome-ai-safety) |
 | LeanSort | Repository README | [LeanSort](https://github.com/Varifold-Lab/LeanSort) |
+| neural-spec | https://varifold-lab.github.io/neural-spec/ | [neural-spec](https://github.com/Varifold-Lab/neural-spec) |
 
 ## Edit and preview
 
