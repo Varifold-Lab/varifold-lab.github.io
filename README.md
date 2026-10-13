@@ -2,7 +2,7 @@
 
 The organization homepage at **https://varifold-lab.github.io/**.
 
-Varifold is an open learning community studying formal verification, interpretability, and mathematical foundations of AI safety. We develop and share notes, tools, and open-source projects to support learning and verifiable knowledge discovery.
+Varifold is an open learning and research community exploring the mathematical foundations of intelligent systems. We study formal verification, AI safety, and multi-agent coordination, and develop open-source notes, models, and tools with explicit assumptions and checkable claims.
 
 This repository contains the community introduction and a directory of public projects. Project documentation stays in its own repository and deploys independently:
 
@@ -12,6 +12,7 @@ This repository contains the community introduction and a directory of public pr
 | Mathematics for AI Safety | https://varifold-lab.github.io/awesome-ai-safety/ | [awesome-ai-safety](https://github.com/Varifold-Lab/awesome-ai-safety) |
 | LeanSort | Repository README | [LeanSort](https://github.com/Varifold-Lab/LeanSort) |
 | neural-spec | https://varifold-lab.github.io/neural-spec/ | [neural-spec](https://github.com/Varifold-Lab/neural-spec) |
+| ν-DSI | Repository README | [vdsi](https://github.com/Varifold-Lab/vdsi) |
 
 ## Edit and preview
 
