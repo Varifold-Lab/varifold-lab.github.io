@@ -2,7 +2,7 @@
 
 The organization homepage at **https://varifold-lab.github.io/**.
 
-Varifold is an open learning and research community exploring the mathematical foundations of intelligent systems. We study formal verification, AI safety, and multi-agent coordination, and develop open-source notes, models, and tools with explicit assumptions and checkable claims.
+An open learning community for AI safety and decentralized intelligence infrastructure.
 
 This repository contains the community introduction and a directory of public projects. Project documentation stays in its own repository and deploys independently:
 
